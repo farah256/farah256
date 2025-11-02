@@ -59,4 +59,5 @@ Feel free to explore my repositories and reach out!
 
 *   **LinkedIn:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/farah-salmi/)
 *   **Email:** farah.salmi02@gmail.com
-*   **Portfolio:** [Your Portfolio Website URL]
+*   **Portfolio:** [[Your Portfolio Website URL]
+](https://portfolio-farah-salmi.netlify.app/)
