@@ -57,7 +57,7 @@ I'm always interested in hearing about new opportunities and collaborations
 
 Feel free to explore my repositories and reach out!
 
-*   **LinkedIn:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/farah-salmi/)
+*   **LinkedIn:** [[My LinkedIn Profile URL]](https://www.linkedin.com/in/farah-salmi/)
 *   **Email:** farah.salmi02@gmail.com
-*   **Portfolio:** [[Your Portfolio Website URL]
+*   **Portfolio:** [[My Portfolio Website URL]
 ](https://portfolio-farah-salmi.netlify.app/)
